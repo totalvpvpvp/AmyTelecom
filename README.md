@@ -8,7 +8,7 @@ AmyTelecom 机场属于佩奇集团，主站是 Nextailly 奶昔机场，Amy 机
 
 AmyTelecom 支持支付宝、微信付款方式。
 
-## AmyTelecom优惠码11111111111111111111111111
+## AmyTelecom优惠码111111111111111111111111111
 
 暂无最新优惠码
 
